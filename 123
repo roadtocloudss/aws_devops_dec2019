@@ -1,4 +1,8 @@
-testing 
-123
-1234
-
+{
+  "type": "shell",
+    "script": "script.sh",
+      "pause_before": "10s",
+        "timeout": "10s"
+	
+	
+	
